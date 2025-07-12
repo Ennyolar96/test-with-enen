@@ -11,8 +11,7 @@
     <ul>
         <li>User registration with email verification (OTP)</li>
         <li>Login functionality</li>
-        <li>Password reset flow</li>
-        <li>Change password functionality</li>
+        <li>Verify email functionality</li>
         <li>Swagger API documentation</li>
     </ul>
 
